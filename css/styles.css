@@ -833,7 +833,7 @@ bottom: 0;
     cursor: pointer;
 }
 
-.filterbut {
+/* .filterbut {
     color: var(--primary-white-color);
     background-color: var(--accent-color);
     cursor: pointer;
@@ -846,7 +846,7 @@ bottom: 0;
     
         font-family: inherit;
 
-}
+} */
 .portfoliobut{
     box-shadow: none;
 }
