@@ -999,7 +999,7 @@ bottom: 0;
         background: var(--primary-background-color);
         border: 1px solid rgba(0, 0, 0, 0.1);
         border-radius: 50%;
-        transition: border-color: 2000ms var(--timing-function);
+        transition: border-color 2000ms var(--timing-function);
     }
 .icon-close{
    position: absolute;
