@@ -879,12 +879,6 @@ bottom: 0;
 } 
 
 
-.examples-title{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 30px;
-}
 
 .flex-element{
     border: 1px solid #EEEEEE;
@@ -921,7 +915,6 @@ bottom: 0;
     left: 0;
 
     width: 100%;
-    height: 100%;
     padding: 63px 24px;
     background-color:rgba(33, 150, 243, 0.9);
      overflow: auto;
